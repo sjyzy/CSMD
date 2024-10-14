@@ -20,7 +20,7 @@ MMCSD manually deleted the blank slices other than the cervical spine, retained 
 
 The file directory structure of this dataset is shown in the figure.The files are divided into three folders, image, text and code. The image folder holds images from different view and modal (ct bone; ct tissue; t1 sag; t2 sat; t2 tra). text stored the patient's clinical information, including the patient's age, gender, surgical method, etc., and included the vas score collected before surgery and the vas score of one-year follow-up after surgery.The code file contains the training and validation split files and the validation code
 
-<img src="./assets/Fig4.png" alt="Fig4" style="zoom: 20%;" />
+<img src="./assets/Fig4.png" width='2000' alt="Fig4" style="zoom: 20%;" />
 
 
 
@@ -73,10 +73,10 @@ python roc.py --name t2sag --img_path ./image/t2_sag --pth_path ./t2_sag.pth --l
 
 
 
-<img src="./assets/image-20241014142435103-8887078.png" alt="image-20241014142435103" style="zoom: 50%;" />
+<img src="./assets/image-20241014142435103-8887078.png" width='800' alt="image-20241014142435103" style="zoom: 50%;" />
 
 
 
-<img src="./assets/image-20241014142547627-8887150.png" alt="image-20241014142547627" style="zoom:30%;" />
+<img src="./assets/image-20241014142547627-8887150.png" width='600' alt="image-20241014142547627"  />
 
 ## Citing MMCSD
