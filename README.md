@@ -73,10 +73,10 @@ python roc.py --name t2sag --img_path ./image/t2_sag --pth_path ./t2_sag.pth --l
 
 
 
-<img src="./assets/Fig.6.tiff" alt="Fig.6" style="zoom: 10%;" />
+<img src="./assets/image-20241014142435103-8887078.png" alt="image-20241014142435103" style="zoom: 50%;" />
 
 
 
-<img src="../../../../论文/301数据集论文/论文初稿/scidata投稿/Fig5.png" alt=" [Fig.2.tif](./assets/Fig5.png)  [Fig.3.tif](../../../../论文/301数据集论文/论文初稿/scidata投稿/Fig.3.tif) " style="zoom:25%;" />
+<img src="./assets/image-20241014142547627-8887150.png" alt="image-20241014142547627" style="zoom:30%;" />
 
 ## Citing VerSe
