@@ -79,4 +79,4 @@ python roc.py --name t2sag --img_path ./image/t2_sag --pth_path ./t2_sag.pth --l
 
 <img src="./assets/image-20241014142547627-8887150.png" alt="image-20241014142547627" style="zoom:30%;" />
 
-## Citing VerSe
+## Citing MMCSD
