@@ -143,13 +143,13 @@ def read_data(img_folder,label_file):
                 if int(id) in train_id:
                     num0 += 1
                     row_data = data.loc[id].values  
-                    train_label_list.append(label_mapping2(row_data[-5]))
+                    train_label_list.append(label_mapping2(row_data[-1]))
                     train_img_list.append(os.path.join(root, file))
                     train_id_list.append(id)
                 if int(id) in test_id:
                     num1 += 1
                     row_data = data.loc[id].values  
-                    test_label_list.append(label_mapping2(row_data[-5]))
+                    test_label_list.append(label_mapping2(row_data[-1]))
                     test_img_list.append(os.path.join(root, file))
                     test_id_list.append(id)
                    
