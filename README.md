@@ -30,11 +30,11 @@ MMCSD data is hosted on the xxx platform, and you can download the corresponding
 
 | Name       | Image | Weights |
 | ---------- | ----- | ------- |
-| MRI T2 sag |       |         |
-| MRI T2 tra |       |         |
-| MRI T1 sag |       |         |
-| CT bone    |       |         |
-| CT tissue  |       |         |
+| MRI T2 sag |   https://doi.org/10.7303/syn64418378.1    |         |
+| MRI T2 tra |   https://doi.org/10.7303/syn64418319.1    |         |
+| MRI T1 sag |   https://doi.org/10.7303/syn64418282.1    |         |
+| CT bone    |    https://doi.org/10.7303/syn63903681.1   |         |
+| CT tissue  |   https://doi.org/10.7303/syn64418176.1   |         |
 
 ## Test
 
